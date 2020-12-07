@@ -8,3 +8,5 @@ This project uses five different datasets in 'csv' format.
 2. seaborn
 3. matplotlib.pyplot
 
+## Visualisations
+All visualisations involving the merged datasets are inline (i.e. shown in the output cells of their respective code input cells)
